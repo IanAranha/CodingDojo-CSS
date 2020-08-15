@@ -1,0 +1,145 @@
+#wrapper{
+	border: 3px solid black;
+	width: 1080px;
+	min-height: 300px;
+	background-color: #8B0000; 
+}
+
+#header{
+	min-height: 20px;
+	background-color: #F5F5F5
+}
+
+#name{
+	padding-left: 18px;
+	font-family: Comic Sans MS;
+	font-size: 25px;
+	font-weight: bolder;
+	width: 45%;
+	display: inline-block;
+	height: 80px;
+	line-height: 35px;
+}
+
+#motto{
+	font-family: Comic Sans MS;
+	font-size: 22px;
+	float: right;
+	margin-right: 30px;
+}
+
+#body{
+	padding: 10px;
+	min-height: 600px;
+}
+
+#selfie{
+	width: 42%;
+	height: 200px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#myPhoto{
+	width: 445px;
+	height: 205px;
+	border: 5px solid snow;
+}
+
+#about{
+	margin-left: 35px;
+	width: 52%;
+	height: 210px;
+	display: inline-block;
+}
+
+#about_header{
+	background-color: gray;
+	padding-left: 10px;
+	font-family: Verdana;
+	font-size: 20px;
+	margin-top: -20px;
+	height: 40px;
+	line-height: 40px;
+}
+
+#biography{
+	margin-right: 5px;
+	background-color: whitesmoke;
+	height: 160px;
+	padding-top: 15px;
+	padding-left: 15px;
+	overflow-y: scroll;
+}
+
+.projects{
+	margin-top: 5px;
+	border: 2px solid white;
+	border-radius: 10px;
+	width: 30.2%;
+	min-height: 500px;
+	display: inline-block;
+	margin-right: 25px;
+	vertical-align: top;
+}
+
+.project{
+	margin-top: -15px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	background-color: gray;
+	padding-left: 10px;
+	font-family: Verdana;
+	font-size: 15px;
+	font-weight: bold;
+	height: 40px;
+	line-height: 40px;
+	color: white;
+}
+
+.project_pic{
+	width: 321px;
+	height: 150px;
+}
+
+.project_body{
+	padding-top: 1%;
+	min-height: 170px;
+	margin-top: -10px;
+	padding-left: 10px;
+	background-color: pink;
+}
+
+.footer{
+	min-height: 100px;
+	padding: 2%;
+}
+
+.icon{
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+.icon_pic{
+	width: 50px;
+	height: 50px;
+}
+
+.end_button{
+	text-align: center;
+}
+
+button{
+	margin-top: 15px;
+	background-color: #4CAF50; 
+	border: 3px solid black;
+	border-radius: 8px;  
+	color: white;
+	padding: 5px 20px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+}
