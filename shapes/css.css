@@ -1,0 +1,29 @@
+#wrapper{
+    min-width: 800px;
+    min-height: 800px;
+    border: 5px solid black;
+    background-color: lightgrey;
+    padding:15px;
+}
+
+#square{
+    width:150px;
+    height:150px;
+    background-color: blue;
+}
+
+#circle{
+    margin-top: 30px;
+    width:150px;
+    height:150px;
+    background-color: rgb(119, 255, 0);
+    border-radius: 100%;
+}
+
+#triangle{
+    width: 0px;
+    margin-top: 30px;
+    border-left: 75px solid transparent;
+	border-right: 75px solid transparent;
+	border-bottom: 150px solid blue;
+}
