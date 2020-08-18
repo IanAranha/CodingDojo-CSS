@@ -1,0 +1,260 @@
+#wrapper{
+    width: 970px;
+    height: auto;
+}
+
+#globe{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+}
+
+#internet{
+    display: inline-block;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+}
+
+#heading{
+    color: cornflowerblue;
+}
+
+#head_border{
+    height: 45px;
+    line-height: 45px;
+    background-color: rgb(22, 135, 206);
+    color: white;
+    margin-top: -40px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body{
+    display: inline-block;
+}
+
+#box1{
+    width: 270px;
+    height: 450px;
+    vertical-align: top;
+}
+
+#top_box{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    width: 265px;
+    height: 245px;
+}
+
+#bottom_box{
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 265px;
+    height: 375px;
+    background-image: url("ad_background.png");
+}
+
+#bottom_box h1{
+    color: whitesmoke;
+}
+
+#bottom_box img{
+    width: 90px;
+    height: 120px;
+}
+
+#bottom_box button{
+    margin-top: 12px;
+    width: 260px;
+    height: 40px;
+    font-size: 1.1em;
+    border-radius: 5px;
+    display: block;
+    color: white;
+    background-color: turquoise;
+}
+
+#top_box .spanA{
+    color: red;
+}
+
+#top_box #spanB{
+    color: rgb(0, 123, 255);
+}
+
+#buttonA{
+    background-color: rgb(70, 130, 240);
+    color: white;
+    width: 260px;
+    height: 40px;
+    font-size: 1.1em;
+    border-radius: 5px;
+}
+
+#buttonB{
+    margin-top: 3px;
+    background-color: rgb(238, 140, 21);
+    color: white;
+    width: 260px;
+    height: 40px;
+    font-size: 1.1em;
+    border-radius: 5px;
+}
+
+/* THIS iS FOR RIGHT SIDE OF DOC */
+
+#box2{
+    margin-left: 30px;
+    width: 655px;
+    min-height: 450px;
+}
+
+#right_box_header{
+    width: auto;
+    min-height: 50px;
+    border-bottom: 0.1em solid grey;
+}
+
+#home{
+    width: 70px;
+    height: 40px;
+}
+
+#home_icon{
+    width:30px;
+    height: 30px;
+    display: inline-block;
+}
+
+#DNS{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    vertical-align: 30%;
+}
+
+#contact{
+    margin-top: -40px;
+    width: 250px;
+    height: auto;
+    display: inline-block;
+    margin-left: 400px;
+    vertical-align: top;
+}
+
+#phone_logo{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#phone{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 0.5em;
+    padding-top: 0.3em;
+    width:40px;
+    height: 40px;
+}
+
+#phone_info{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 25px;
+    display: inline-block;
+    text-align: center;
+}
+
+#phone_time{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    font-size: 10px;
+}
+
+#phone_number{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -14px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+#alt_phone{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -28px;
+    font-size: 10px;
+}
+
+
+/* THIS IS FOR SECOND SECTION */
+
+#right_box_body{
+    margin-top: -15px;
+    width: auto;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.spanC{
+    color: rgb(75, 162, 255);
+}
+
+.spanD{
+    color: rgb(32, 121, 216);
+}
+
+#right_box_image{
+    width: auto;
+    height: 100px;
+    text-align: center;
+}
+
+#right_box_image img{
+    width: 300px;
+    height: 100px;;
+}
+#right_box_footer{
+    width: auto;
+    height: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#right_box_footer .spanD{
+    color: rgb(32, 121, 216);
+}
+
+#right_box_base{
+    border: 5px solid rgb(13, 108, 233);
+    border-bottom: 0px;
+    width: auto;
+    height: auto;
+    padding-top: 25px;
+    padding-left: 20px;
+    line-height: 0.9em;
+}
+
+#right_box_base img{
+    width: 140px;
+    height: 120px;
+    display: inline-block;
+}
+
+#right_box_base #base_body{
+    margin-top: -20px;
+    display: inline-block;
+    vertical-align: top;
+    width: 450px;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#right_box_base span{
+    font-style: italic;
+}
